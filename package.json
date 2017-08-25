@@ -3,7 +3,7 @@
     "name": "Libin Lu"
   },
   "bugs": {
-    "url": "https://github.com/evollu/react-native-fcm/issues"
+    "url": "https://bitbucket.org/lucas-castro/react-native-fcm"
   },
   "description": "React Native bridge for firebase cloud messaging (FCM)",
   "peerDependencies": {
