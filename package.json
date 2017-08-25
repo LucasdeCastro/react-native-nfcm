@@ -9,7 +9,7 @@
   "peerDependencies": {
     "react-native": ">=0.47.0"
   },
-  "homepage": "https://github.com/evollu/react-native-fcm",
+  "homepage": "https://bitbucket.org/lucas-castro/react-native-fcm",
   "keywords": [
     "React-Native",
     "ios",
@@ -22,7 +22,7 @@
   "name": "react-native-fcm",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evollu/react-native-fcm.git"
+    "url": "git+react-native-fcm@bitbucket.org:lucas-castro/react-native-fcm.git"
   },
   "version": "8.0.0"
 }
